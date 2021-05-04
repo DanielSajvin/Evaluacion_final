@@ -1,7 +1,9 @@
 #Temas que mas me gustaron del curso
-     - Git y github
+ - Temas que me resultaron mas relevantes: 
      - Seguridad
      - Redes
+     - Git y github
+    
 
 
 ##Lo que mas me gusto del curso
@@ -12,3 +14,4 @@ Algo que hay que resaltar es que `git y git hub` es de gran ayuda para tener un 
 ###Compañero
 Un compañero que me ayudo bastante a comprender un poco mas los temas fue @allanperez08, que a veces también no entendia nada :EMOJICODE:: riendo :
 pero entre los dos lograbamos comprender mejor las cosas.
+
