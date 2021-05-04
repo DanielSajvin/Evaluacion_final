@@ -26,6 +26,9 @@ int main()
         cout << "El numero ingresado no es un numero estrobogramatico" << endl;
     }
     else if ()
-    // Comience a programar desde aquí
+    {
+
+    }
+  
     return 0;
 }
