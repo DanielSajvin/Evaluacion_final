@@ -20,6 +20,12 @@ int main()
     int num;
     cout << "Ingrese un numero:" << endl;
     cin >> num;
+
+    if (num = 2 && num = 3 && num = 4 && num = 5 && num = 7)
+    {
+        cout << "El numero ingresado no es un numero estrobogramatico" << endl;
+    }
+    else if ()
     // Comience a programar desde aquí
     return 0;
 }
