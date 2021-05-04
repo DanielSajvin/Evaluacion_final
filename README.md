@@ -1,4 +1,5 @@
 #Temas que mas me gustaron del curso
+
  - Temas que me resultaron mas relevantes: 
      - Seguridad
      - Redes
@@ -7,6 +8,7 @@
 
 
 ##Lo que mas me gusto del curso
+
 Me gusto la forma en que el curso se fue desarrollado, los Kahoot al final de la clase me gustaba mucho :EMOJICODE: sonrisa :
 tambien me parecieron muy interesantes todos los temas que vimos, :EMOJICODE: aliviado :.
 Algo que hay que resaltar es que `git y git hub` es de gran ayuda para tener un trabajo mas ordenado. 
